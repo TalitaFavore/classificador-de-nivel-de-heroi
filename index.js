@@ -22,4 +22,4 @@ if (XP <= 1000) {
     console.log("XP inválido")
 }
 
-console.log("O Herói " + nomeHeroi +" tem " + XP + " pontos de experiência e está no nível de " + nivel)
+console.log("O Herói " + nomeHeroi + " tem " + XP + " pontos de experiência e está no nível de " + nivel)
